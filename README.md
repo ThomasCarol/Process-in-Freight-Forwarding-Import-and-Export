@@ -1,6 +1,5 @@
 # Process-in-Freight-Forwarding-Import-and-Export
-Read Vee Technologies’ precise but informative article on the complicated process of import and export of goods in freight forwarding here:
-Freight forwarding involves strategic logistics planning and execution for the international shipment of goods on the behalf of the shippers. The freight forwarder works on freight rate negotiations to freight consolidation, and more. The freight forwarding process is critical for businesses to create lucrative opportunities. The international shipment of import and export involves a complex process like protocols, technological barriers, and supply chain issues.
+The freight forwarder works on freight rate negotiations to freight consolidation, and more. The freight forwarding process is critical for businesses to create lucrative opportunities. The international shipment of import and export involves a complex process like protocols, technological barriers, and supply chain issues.
 
 Freight forwarders are the specialized people processing the import and export of shipments across international borders. They are experts in understanding international trade regulations and how to ship goods on behalf of clients throughout the world.  
 
